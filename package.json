@@ -1,0 +1,26 @@
+{
+  "name": "gulp-selenium",
+  "version": "0.0.1",
+  "description": "Gulp plugin for working with Selenium Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:ianwalter/gulp-selenium.git"
+  },
+  "keywords": [
+    "gulp",
+    "selenium",
+    "server",
+    "jar",
+    "webdriver"
+  ],
+  "author": "Ian Kennington Walter (http://ianvonwalter.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ianwalter/gulp-selenium/issues"
+  },
+  "homepage": "https://github.com/ianwalter/gulp-selenium"
+}
