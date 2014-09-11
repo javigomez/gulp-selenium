@@ -1,5 +1,5 @@
 # gulp-selenium
-*Gulp plugin for working with Selenium Server*
+*Gulp plugin for working with Selenium Server (doesn't necessarily require Gulp)*
 
 ## Installation
 
