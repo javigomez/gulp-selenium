@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/ianwalter/gulp-selenium/issues"
   },
-  "homepage": "https://github.com/ianwalter/gulp-selenium"
+  "homepage": "https://github.com/ianwalter/gulp-selenium",
+  "dependencies": {
+    "gulp-util": "^3.0.1"
+  }
 }
