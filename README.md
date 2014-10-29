@@ -1,5 +1,5 @@
 # gulp-selenium
-*Gulp plugin for working with Selenium Server (doesn't necessarily require Gulp)*
+*Selenium JAR, Chromedriver executable and interface for working with Selenium Server (doesn't necessarily require Gulp)*
 
 ## Installation
 
